@@ -14,7 +14,7 @@ This gem provides a rake task.
 rake log_pg_connection_counter
 ```
 
-If you want more fine grained controle then use like this.
+If you want more fine grained control then use like this.
 
 ```
 PgConnectionCounter::Counter.new.display
