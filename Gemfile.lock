@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     pg_connection_counter (0.0.2)
-      rails (~> 4.1.8)
+      rails (>= 4.1.8)
 
 GEM
   remote: https://rubygems.org/
